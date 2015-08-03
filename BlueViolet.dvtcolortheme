@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>CourierNewPS-BoldMT - 11.0</string>
+	<string>CourierNewPS-BoldMT - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>CourierNewPSMT - 11.0</string>
+	<string>CourierNewPSMT - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.41 0.55 0.99 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>CourierNewPS-BoldMT - 11.0</string>
+	<string>CourierNewPS-BoldMT - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>CourierNewPSMT - 11.0</string>
+	<string>CourierNewPSMT - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>CourierNewPS-BoldMT - 11.0</string>
+	<string>CourierNewPS-BoldMT - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
