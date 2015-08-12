@@ -65,9 +65,9 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.407843 0.952941 0.0705882 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.390822 0.218879 0.126473 1</string>
+		<string>0.886275 0.490196 0.270588 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.391 0.22 0.125 1</string>
+		<string>0.886275 0.482353 0.286275 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.316475 0.279735 1 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
