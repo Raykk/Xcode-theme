@@ -31,7 +31,7 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.0559684 0.0966726 0.0966726 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
@@ -47,11 +47,11 @@
 		<key>xcode.syntax.character</key>
 		<string>0.901961 0.184314 0.203922 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.114885 0.521968 0.0985181 1</string>
+		<string>0.431373 0.392157 0.34902 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.114885 0.521968 0.0985181 1</string>
+		<string>0.435294 0.396078 0.352941 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.114885 0.521968 0.0985181 1</string>
+		<string>0.435294 0.396078 0.356863 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.316475 0.279735 1 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -65,9 +65,9 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.407843 0.952941 0.0705882 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.886275 0.490196 0.270588 1</string>
+		<string>0.390822 0.218879 0.126473 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.886275 0.482353 0.286275 1</string>
+		<string>0.391 0.22 0.125 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.316475 0.279735 1 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
@@ -96,9 +96,9 @@
 		<key>xcode.syntax.character</key>
 		<string>CourierNewPSMT - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>CourierNewPSMT - 16.0</string>
+		<string>STKaiti - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>CourierNewPSMT - 16.0</string>
+		<string>STKaiti - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>CourierNewPSMT - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
