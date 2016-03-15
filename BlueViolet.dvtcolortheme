@@ -30,6 +30,40 @@
 	<string>0.644027 0.79447 1 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.08 0.08 0.08 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.1536 0.1536 0.1536 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>CourierNewPSMT - 15.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.HelveticaNeueDeskInterface-Italic - 15.0</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.055 0.055 1 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 15.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 15.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>1 1 1 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 21.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 36.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 27.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.HelveticaNeueDeskInterface-Bold - 15.0</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0 0 0 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
@@ -55,7 +89,7 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.316475 0.279735 1 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.479153 0 0.998445 1</string>
+		<string>0.541176 0.168627 0.886275 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.337255 0.878431 0.866667 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
@@ -71,11 +105,11 @@
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.316475 0.279735 1 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.502553 0.184367 0.933452 1</string>
+		<string>0.541176 0.168627 0.886275 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.316475 0.279735 1 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.584367 0.238916 0.989514 1</string>
+		<string>0.541176 0.168627 0.886275 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.984314 0.819608 0.156863 1</string>
 		<key>xcode.syntax.number</key>
@@ -96,9 +130,9 @@
 		<key>xcode.syntax.character</key>
 		<string>CourierNewPSMT - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>STKaiti - 16.0</string>
+		<string>CourierNewPSMT - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>STKaiti - 16.0</string>
+		<string>CourierNewPSMT - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>CourierNewPSMT - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
